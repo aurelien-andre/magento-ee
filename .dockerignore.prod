@@ -1,0 +1,12 @@
+/data
+/src/var
+/src/generated
+/.git
+/.gitignore
+/.idea
+/.env
+/.env.*
+/auth.json.dist
+/docker-compose.yml
+/Dockerfile
+/README.md
